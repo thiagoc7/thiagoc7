@@ -1,8 +1,8 @@
 # Hi, I'm Thiago 👋
 
-**Software engineer (Ruby on Rails / full-stack) who builds with an operator's mindset — AI-native, with judgment.**
+**Software engineer (Ruby on Rails / full-stack) and founder-operator — AI-native, with judgment. Available for projects (contract / async).**
 
-I've been building software for 10+ years and directing how products get built since 2002. Former founder and operator (an online DVD rental, *ClickMovies*, 2002–2006; a fuel-station chain, 2010–2024), now back to writing the code myself. These days I'm building **Diesel BI** — a multi-tenant Rails 8 BI/CRM platform with AI embedded in production — in the context of a fuel distributor (TRR B2B). I ship end to end, from data model to UI, and I'm deliberate about *where AI decides on its own and where a human stays in the loop*.
+I've been building software for 10+ years and directing how products get built since 2002. I've founded and run businesses — an online DVD rental (*ClickMovies*, 2002–2006) and a fuel-station chain (2010–2024) — and today I run **Disbra** (a B2B fuel distributor), where I built and operate **Diesel BI**: a multi-tenant Rails 8 BI/CRM platform with AI embedded in production. I ship end to end, from data model to UI, and I'm deliberate about *where AI decides on its own and where a human stays in the loop*. I'm **available for development projects** (contract/freelance, async) and open to the right full-time role.
 
 My edge isn't a framework — it's knowing what actually moves a real operation, and translating that into systems.
 
